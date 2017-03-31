@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1490400807 source:c:\users\matheus\documents\c\alarme\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-
