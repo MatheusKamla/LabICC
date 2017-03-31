@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490394769 source:c:\users\matheus\documents\c\relogio\relogio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
